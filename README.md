@@ -9,3 +9,6 @@ how it works:
 4. on 12/31/2023 everything gets liquidated. $SHIT holders receive proportional share of resulting ETH. 10% fee to ShitDAO founders
 
 ShitDAO doesn't aim at holding $SHIT. whenever the DAO holds $SHIT the $SHIT will be flipped for ETH to fund investments.
+
+## $SHIT
+contract address: 0x798677cabc3e794349968932e8ef78266a3c3149
