@@ -7,3 +7,5 @@ how it works:
 2. extract funds from pool when ShitDAO pool position reaches more than 10 ETH
 3. invest in stuff
 4. on 12/31/2023 everything gets liquidated. $SHIT holders receive proportional share of resulting ETH. 10% fee to ShitDAO founders
+
+ShitDAO doesn't aim at holding $SHIT. whenever the DAO holds $SHIT the $SHIT will be flipped for ETH to fund investments.
